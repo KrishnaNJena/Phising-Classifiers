@@ -1,0 +1,4 @@
+2021-04-16/11:06:50		Invalid File Name!! File moved to Bad Raw Folder :: phising_080020_120.csv
+2021-04-16/11:06:51		Invalid File Name!! File moved to Bad Raw Folder :: phising_08012020_120.csv
+2021-04-16/11:06:51		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
+2021-04-16/12:28:03		Valid File name!! File moved to GoodRaw Folder :: phising_08012020_120000.csv
