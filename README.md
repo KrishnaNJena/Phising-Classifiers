@@ -62,3 +62,7 @@ Name of the files, Length of Date value in FileName, Length of Time value in Fil
  
 > App been deployed in Pivotal Cloud Foundry Platform.
 
+> Open Postman to check result:
+
+![image](https://user-images.githubusercontent.com/62303495/115121438-69161180-9fd0-11eb-8ebd-51f780ca8d6d.png)
+
